@@ -1,0 +1,9 @@
+
+{
+  "appId": "com.jaat.chartofaccounts",
+  "appName": "JAAT",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
